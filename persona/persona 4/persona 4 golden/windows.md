@@ -32,3 +32,11 @@
 11. Press Next again. If you want to change where Persona 4 Golden is installed to, Press Browse, but you probably wont need to. Press Next
 
 12. Uncheck ALL checkboxes, this will speed up the install process. Press Install. 
+
+13. Once done, uncheck all checkboxes except to launch the game, then press Finish.
+
+![Screenshot_20240522_163237](https://github.com/verbes4/free-persona-smt/assets/24574201/189f8337-66d8-47ef-9f23-8f772d4b381a)
+
+14. If a window like this pops up, just close it. It's verifying the game files for errors, but its not really necessary.
+
+![Screenshot_20240522_163412](https://github.com/verbes4/free-persona-smt/assets/24574201/74fb63ff-a399-4cfe-9114-2b72373c82e5)
